@@ -1,0 +1,4 @@
+1. Go to https://www.core-econ.org/doing-economics/book/text/01-01.html.
+2. Read the Introduction and follow https://www.core-econ.org/doing-economics/book/text/01-06.html
+3. Follow the Python walkthroughs, copy the code and run it yourself. Use Jupyter NoЕebooks in VS Code or Google Collab
+4. Answer the questions in the project. Use markdown to write them in your jupyter file.  
